@@ -1,2 +1,2 @@
 # CodeChum-Solutions
-Practce
+Practice
